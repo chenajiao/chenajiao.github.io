@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Ajiao"
+title                    : "CEHN Ajiao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "CHEN Ajiao"
 description              : &description "personal description"
 url                      : https://chenajiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen ajiao"
+  name             : "Chen Ajiao"
   avatar           : "profile.png"
-  bio              : "PhD"
+  bio              : "Ph.D Student"
   location         : "China"
   employer         : 
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenajiao.github.io"
+  github           : "chenajiao"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/0000-0002-3852-0474"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :  "steam"
   tumblr           :
-  twitter          : 
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
